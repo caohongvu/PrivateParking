@@ -1,0 +1,16 @@
+
+.settings/org.eclipse.core.resources.prefs
+.project
+*.prefs
+private-parking-apis/.classpath
+.DS_Store
+private-parking-apis/.settings/.jsdtscope
+*.component
+private-parking-apis/.settings/org.eclipse.wst.common.project.facet.core.prefs.xml
+private-parking-apis/.settings/org.eclipse.wst.common.project.facet.core.xml
+*.container
+private-parking-application/.classpath
+private-parking-application/.settings/org.eclipse.wst.common.project.facet.core.xml
+private-parking-entity/.classpath
+private-parking-entity/.settings/org.eclipse.wst.common.project.facet.core.prefs.xml
+private-parking-entity/.settings/org.eclipse.wst.common.project.facet.core.xml
